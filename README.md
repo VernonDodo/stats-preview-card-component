@@ -38,8 +38,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: ![](https://github.com/VernonDodo/stats-preview-card-component)
-- Live Site URL: ![](https://stats-preview-card-component-3gd7975wx-vernondodo.vercel.app/)
+- [Solution URL](https://github.com/VernonDodo/stats-preview-card-component)
+- [Live Site URL](https://stats-preview-card-component-3gd7975wx-vernondodo.vercel.app/)
 
 ## My process
 
