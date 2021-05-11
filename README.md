@@ -28,16 +28,18 @@ Users should be able to:
 
 ### Screenshot
 
+### Mobile
 ![Mobile](images/Screenshot_FrontendMentor_Stats_preview_card_component-Mobile.png)
 
+### Desktop
 ![Desktop](images/Screenshot_FrontendMentor_Stats_preview_card_component-Desktop.png)
 
 
 
 ### Links
 
-- Solution URL: [](https://github.com/VernonDodo/stats-preview-card-component)
-- Live Site URL: [](https://stats-preview-card-component-3gd7975wx-vernondodo.vercel.app/)
+- Solution URL: ![](https://github.com/VernonDodo/stats-preview-card-component)
+- Live Site URL: ![](https://stats-preview-card-component-3gd7975wx-vernondodo.vercel.app/)
 
 ## My process
 
